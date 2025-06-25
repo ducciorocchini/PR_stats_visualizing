@@ -35,8 +35,9 @@
 + Temporal variability: Creating ridgeline plots
 + Scatterplots and hexagon binning
 
-## Day 3 – Classes from 09:30 – 17:30: Point Patterns
+## Day 3 – Classes from 09:30 – 17:30: Vectors and Point Patterns
 
++ Visualization of vectors and scatterplots of vector data
 + Species distributions: Cartograms, overlap, and bivariate maps
 + Spatial density maps in R
 + Scatterplot matrices
