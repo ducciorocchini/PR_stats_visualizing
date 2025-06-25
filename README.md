@@ -33,7 +33,7 @@
 
 + Multivariate analysis of ecological data
 + Temporal variability: Creating ridgeline plots
-+ Scatterplots of remote sensing data and hexagon binning
++ Scatterplots and hexagon binning
 
 ## Day 3 – Classes from 09:30 – 17:30: Point Patterns
 
