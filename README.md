@@ -1,4 +1,4 @@
-# Visualizing Spatial Data in R 
+# Reproducible Workflows for Visualizing Geographical Data in R
 
 # Packages needed
 
