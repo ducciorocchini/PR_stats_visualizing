@@ -31,7 +31,7 @@
 
 ## Day 2  – Classes form 09:30 – 17:30: Raster Data II
 
-+ Multivariate analysis of ecological data
++ Multivariate analysis of remotely sensed data
 + Temporal variability: Creating ridgeline plots
 + Scatterplots and hexagon binning
 
