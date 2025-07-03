@@ -1,3 +1,6 @@
+# Additional examples:
+# https://plotly.com/r/line-and-scatter/
+
 library(plotly)
 midwest
 
